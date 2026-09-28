@@ -1,0 +1,4 @@
+=== Escena 1 ===
+00:40.031  render           | Video append frame 1
+00:57.484  render           | Video append frame 2
+01:15.188  render           | Video append frame 3
